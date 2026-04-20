@@ -27,3 +27,5 @@ I want to:
 - These are **test servers** – uptime not guaranteed.
 - Do **not** use for banking, work, or anything sensitive.
 - I may rotate or remove configs without notice.
+
+**VLESS** `https://raw.githubusercontent.com/cool-cucumber-in-the-town/v2ray-test-config/refs/heads/main/vless-my-key.txt`
